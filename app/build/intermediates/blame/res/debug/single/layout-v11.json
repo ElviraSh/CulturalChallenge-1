@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Anatoly\\.android\\build-cache\\134a4556cb10a0a53cfc8fe620d01e028fa75722\\output\\res\\layout-v11\\notification_media_action.xml"
+    }
+]

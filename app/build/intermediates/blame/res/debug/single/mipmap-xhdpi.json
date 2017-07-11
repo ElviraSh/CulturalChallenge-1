@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\Tolya\\Univer\\AndroidLab2Course\\CulturalChallenge\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
